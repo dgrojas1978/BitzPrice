@@ -19,8 +19,8 @@ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Daniel Gonzalez
+[Revoltillo LLC](http://www.revoltillo.com)
 
 ### Version
 
